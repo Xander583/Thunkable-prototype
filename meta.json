@@ -8,21 +8,21 @@
                 }
             },
             "assets": {
-                "64fc968511691000e29abbde": {
+                "6506294f5205bf358342f11e": {
                     "externalStorageType": "GCS",
-                    "_id": "64fc968511691000e29abbde",
+                    "_id": "6506294f5205bf358342f11e",
                     "size": "24123",
                     "mimetype": "image/png",
                     "encoding": "7bit",
                     "originalname": "305soft-high-resolution-color-logo.png",
-                    "backendURI": "/project/64fc75220c3dd5ef379b11c2/getasset/64fc968511691000e29abbde",
+                    "backendURI": "/project/6506294f5205bf151e42f11c/getasset/6506294f5205bf358342f11e",
                     "name": "305soft-high-resolution-color-logo.png",
-                    "externalName": "users/64f8c925621b9c5618b3d365/projects/64fc75220c3dd5ef379b11c2/assets/64fc968511691000e29abbde",
+                    "externalName": "users/64f8c925621b9c5618b3d365/projects/6506294f5205bf151e42f11c/assets/6506294f5205bf358342f11e",
                     "createdAt": "2023-09-09T16:00:06.112Z",
                     "updatedAt": "2023-09-09T16:00:06.112Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f8c925621b9c5618b3d365/projects/64fc75220c3dd5ef379b11c2/assets/64fc968511691000e29abbde?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230914%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230914T130828Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4265ada1fe058eb24cfa81a3b6a0d122b08a51304297b150b6f184ccec341294acc9f17ad0f849917aef350d4a3b3d95fc097d280364e7bddd23eea2916d1fe9ddfcea2b66c8f67c15ba69c83b4f62a57f5b49f600551d3db8675a02028342a01363e6b3f6e7e303cfd4021ac516449339898af1e695a46d2dd2cf605c48f072c83ec60dc25ec2a85c272f6054f6b2286ad886d678525a4cd6f1ef7c0974f123672e9e163a4b35014d94d4afe9bd04a262282c5c106263ed61cf657932f61a37afcdd29757552ba9ff4363592bb6b2a5394d8131869c520ec427e27baf76058a20670e9466a21433b0469f4761240384311c200d44e3e6272815dd87ba53cce9",
-                    "signedUrlExpirationTime": 1694869708091
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f8c925621b9c5618b3d365/projects/6506294f5205bf151e42f11c/assets/6506294f5205bf358342f11e?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230917%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230917T232232Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=617b5b7f78d535643b5ad9542c5bbbfe9f9da900af5dda3e916739d12f8762ea55347cd189ea63a0189acaac594cbf5efbb34c14736840d28b7534214c399a91c47cb1cc0860984a4a5e8ca1d47859b04992e1a35f5e833403d2a5b79cf2518cfa5d45b0b1efb4bac6ae124e1bd7c0c3e0657c57f308c8834b9f39897551382feb44e1edaf35fa531c2811d4082be739614df8203f7df2f5b839e72fbc33a607c07d4803d558f7893d69c00c8702aacf0539edc34d56aee593c7d007c6ab9f2c95673d1fdffdae0748952f9051617aa19e604bd838c435a6ab428411cae41edd05210d4090e54efb529a4dede6cce654a5dc54a6ce42006367e1d39c1486230d",
+                    "signedUrlExpirationTime": 1695165752326
                 }
             },
             "backendUpgradeVersion": 21,
@@ -82,7 +82,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "Camera App V2",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -193,7 +193,18 @@
             "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "dc0ed0b3-74ce-4011-aa44-4656d8bb28ae": {
+                    "scope": "APP",
+                    "name": "voices",
+                    "screenId": "6f076df4-7a1c-42ae-a0c5-f43d5e2a2d8d"
+                },
+                "a14c3aff-15f4-4a8b-bd09-ebb122adea14": {
+                    "scope": "APP",
+                    "name": "go",
+                    "screenId": "6f076df4-7a1c-42ae-a0c5-f43d5e2a2d8d"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
